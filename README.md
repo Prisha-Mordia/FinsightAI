@@ -49,7 +49,7 @@ FinsightAI integrates financial data from multiple sources, analyzes historical 
 Check out our live demo at [FinsightAI Demo](https://Prisha-Mordia.github.io/FinsightAI/) to test our financial prediction and analysis features.
 
 ### Screenshots
-
+<img src="./screenshots/demo.png">
 
 ## Prerequisites
 
